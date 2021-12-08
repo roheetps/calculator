@@ -1,0 +1,2 @@
+# calculator
+Automation of calculator
